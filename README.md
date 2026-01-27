@@ -287,14 +287,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 </table>
 
-### Lynx
-
-*Coming soon!*
-
-### WonderSwan
-
-*Coming soon!*
-
 ### Famicom
 
 <table align="center">
@@ -323,6 +315,14 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 *Coming soon!*
 
 ### Genesis
+
+*Coming soon!*
+
+### Lynx
+
+*Coming soon!*
+
+### WonderSwan
 
 *Coming soon!*
 
