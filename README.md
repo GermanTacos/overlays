@@ -42,7 +42,7 @@ Themes here are in .7z format; you can place them into your `/Themes` folder and
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-pr-bk.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-fl.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
         </td>
