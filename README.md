@@ -1,10 +1,8 @@
 Assorted overlays for various consoles and resolutions.
 
-Themes here are in .7z format; you can place them into your `/Themes` folder and spruce will automatically unzip them on next boot.
-
 Overlays are in .png format; install to wherever your RetroArch overlays are kept on your device/handheld.
 
-**These themes are licensed under MIT. You are free to use or edit them for any purpose you'd like. If used, please let me know via email at me@jaw.fyi**
+**These overlays are licensed under MIT. You are free to use or edit them for any purpose you'd like. If used, please let me know via email at me@jaw.fyi**
 
 ## Overlays
 
