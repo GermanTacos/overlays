@@ -164,6 +164,24 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<br/>
         </td>
 	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Color Black L" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-gbc-1-bk-cl.png" /><br/>
+			<b>Game Boy Color Black L</b><br/>
+			<small><i>full color logo, int. scaled</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Color Black S" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-gbc-2-bk-cl.png" /><br/>
+			<b>Game Boy Color Black S</b><br/>
+			<small><i>full color logo, int. scaled</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
+        </td>
+	</tr>
 </table>
 
 ### Game Boy
