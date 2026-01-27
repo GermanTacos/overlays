@@ -385,7 +385,7 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 </table>
 
-### Famicom
+### Famicom / Nintendo Entertainment System
 
 <table align="center">
 	<tr>
@@ -408,7 +408,7 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 </table>
 
-### Super Famicom
+### Super Famicom / Super Nintendo Entertainment System
 
 <table align="center">
 	<tr>
@@ -494,9 +494,28 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 </table>
 
-### Genesis
+### Mega Drive / Genesis
 
-*Coming soon!*
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Mega Drive Magenta" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-md-1-bk-wh.png" /><br/>
+			<b>Mega Drive Magenta</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Genesis Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-md-2-bk-wh.png" /><br/>
+			<b>Genesis Red</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
+        </td>
+	</tr>
+</table>
 
 ### Lynx
 
