@@ -150,7 +150,86 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 
 ### Game Boy
 
-*Coming soon!*
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-gr-bl.png" /><br/>
+			<b>Game Boy Gray</b><br/>
+			<small><i>blue logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-bl.png" /><br/>
+			<b>Game Boy Black</b><br/>
+			<small><i>blue logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-pr.png" /><br/>
+			<b>Game Boy Black</b><br/>
+			<small><i>purple logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-gr-bl.png" /><br/>
+			<b>Game Boy Gray</b><br/>
+			<small><i>blue logo, alt. battery, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-bl.png" /><br/>
+			<b>Game Boy Black</b><br/>
+			<small><i>blue logo, alt. battery, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-pr.png" /><br/>
+			<b>Game Boy Black</b><br/>
+			<small><i>purple logo, alt. battery, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-pocket.png" /><br/>
+			<b>Game Boy Pocket Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-pocket.png" /><br/>
+			<b>Game Boy Pocket Black</b><br/>
+			<small><i>alt. battery, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-si-pocket.png" /><br/>
+			<b>Game Boy Pocket Silver</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-light.png" /><br/>
+			<b>Game Boy Light Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-light.png" /><br/>
+			<b>Game Boy Light Black</b><br/>
+			<small><i>alt. battery, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
+        </td>
+	</tr>
+</table>
 
 ### Lynx
 
