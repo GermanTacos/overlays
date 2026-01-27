@@ -19,11 +19,30 @@ Themes here are in .7z format; you can place them into your `/Themes` folder and
 			<img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-bk-bl.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
-        </td><td align="center" valign="top" width="33.33%">
+        </td>
+		<td align="center" valign="top" width="33.33%">
 			<br/>
 			<img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-bk-pr.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-pr-bk.png" /><br/>
+			<b>Game Boy Advance Black</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-pr-pr.png" /><br/>
+			<b>Game Boy Advance Black</b><br/>
+			<small><i>purple logo, int. scaled</i></small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
         </td>
 	</tr>
 </table>
