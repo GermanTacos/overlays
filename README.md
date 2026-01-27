@@ -16,7 +16,7 @@ Themes here are in .7z format; you can place them into your `/Themes` folder and
         </td>
 		<td align="center" valign="top" width="33.33%">
 			<br/>
-			<img title="Game Boy Advance Black" width="200px" background="white" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-bk-bl.png" /><br/>
+			<img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-bk-bl.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
         </td><td align="center" valign="top" width="33.33%">
