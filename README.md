@@ -355,7 +355,7 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-pocket.png" /><br/>
 			<b>Game Boy Pocket Black</b><br/>
-			<small><i>alt. battery, int. scaled</i></small><br/>
+			<small><i>alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
@@ -375,7 +375,7 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-light.png" /><br/>
 			<b>Game Boy Light Black</b><br/>
-			<small><i>alt. battery, int. scaled</i></small><br/>
+			<small><i>alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
