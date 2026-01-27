@@ -87,6 +87,26 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small>1280 x 960</small><br/>
         </td>
 	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560-int/752-560-gba-1-bk-bk.png" /><br/>
+			<b>Game Boy Advance Black</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>752 x 560</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560-int/752-560-gba-1-bk-bl.png" /><br/>
+			<b>Game Boy Advance Black</b><br/>
+			<small><i>blue logo, int. scaled</i></small><br/>
+			<small>752 x 560</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560-int/752-560-gba-1-pr-bk.png" /><br/>
+			<b>Game Boy Advance Purple</b><br/>
+			<small><i>black, int. scaled</i></small><br/>
+			<small>572 x 560</small><br/>
+        </td>
+	</tr>
 </table>
 
 ### Game Boy Color
