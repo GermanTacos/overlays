@@ -413,6 +413,29 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 </table>
 
+### Pokemon Mini
+
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Pokemon Mini Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-poke-1-bk-cl.png" /><br/>
+			<b>Pokemon Mini Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Pokemon Mini Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-poke-1-bk-cl.png" /><br/>
+			<b>Pokemon Mini Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
+        </td>
+	</tr>
+</table>
+
 ### Genesis
 
 *Coming soon!*
