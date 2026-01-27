@@ -297,7 +297,26 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 
 ### Famicom
 
-*Coming soon!*
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-fc-1-rd-gl.png" /><br/>
+			<b>Famicom Red</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="NES Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-fc-2-gr-rd.png" /><br/>
+			<b>NES Gray</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
+        </td>
+	</tr>
+</table>
 
 ### Super Famicom
 
