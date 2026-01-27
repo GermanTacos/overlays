@@ -147,3 +147,31 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
         </td>
 	</tr>
 </table>
+
+### Game Boy
+
+*Coming soon!*
+
+### Lynx
+
+*Coming soon!*
+
+### WonderSwan
+
+*Coming soon!*
+
+### Famicom
+
+*Coming soon!*
+
+### Super Famicom
+
+*Coming soon!*
+
+### Genesis
+
+*Coming soon!*
+
+### PICO-8
+
+*Coming soon!*
