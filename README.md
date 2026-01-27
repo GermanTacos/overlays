@@ -285,6 +285,26 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<br/>
         </td>
 	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Gray L" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-gb-1-gr-cl.png" /><br/>
+			<b>Game Boy Gray L</b><br/>
+			<small><i>blue logo</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Gray S" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-gb-2-gr-cl.png" /><br/>
+			<b>Game Boy Gray S</b><br/>
+			<small><i>blue logo</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Game Boy Gray Striped" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-gb-3-gr-cl.png" /><br/>
+			<b>Game Boy Gray Striped</b><br/>
+			<small><i>alt design</i></small><br/>
+			<small>640 x 480</small><br/>
+        </td>
+	</tr>
 </table>
 
 ### Famicom
