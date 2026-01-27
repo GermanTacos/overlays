@@ -6,6 +6,8 @@ Themes here are in .7z format; you can place them into your `/Themes` folder and
 
 ## Overlays
 
+# Game Boy Advance
+
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="33.33%">
