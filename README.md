@@ -410,6 +410,42 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Famicom Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-bk-rd.png" /><br/>
+			<b>Famicom Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Famicom Gold" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-go-rd.png" /><br/>
+			<b>Famicom Gold</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Famicom Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-gr-rd.png" /><br/>
+			<b>Famicom Gray</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-rd-go.png" /><br/>
+			<b>Famicom Red</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/>
+			<br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-fc-1-rd-gl.png" /><br/>
 			<b>Famicom Red</b><br/>
 			<small><i>int. scaled</i></small><br/>
