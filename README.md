@@ -627,3 +627,26 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 </table>
 
 ### PlayStation
+
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="PSX Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-ps1-1-bk-cl-wh.png" /><br/>
+			<b>PSX Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>2560 x 1600</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="PSX SCE Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-ps1-2-bk-cl-wh.png" /><br/>
+			<b>PSX SCE Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>2560 x 1600</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="PSX SCE Black II" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-ps1-3-bk-cl-wh.png" /><br/>
+			<b>PSX SCE Black II</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>2560 x 1600</small><br/>
+        </td>
+	</tr>
+</table>
