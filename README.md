@@ -548,19 +548,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="33.33%">
-			<br/><img title="N64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/960-640-n64-1-bk-cl-bl.png" /><br/>
+			<br/><img title="N64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/960-640/960-640-n64-1-bk-cl-bl.png" /><br/>
 			<b>N64 Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>960 x 640</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
-			<br/><img title="N64 Box Art" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/960-640-n64-3-bk-cl-bl.png" /><br/>
+			<br/><img title="N64 Box Art" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/960-640/960-640-n64-3-bk-cl-bl.png" /><br/>
 			<b>N64 Box Art</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>960 x 640</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
-			<br/><img title="Ultra 64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/960-640-n64-2-bk-cl-bl.png" /><br/>
+			<br/><img title="Ultra 64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/960-640/960-640-n64-2-bk-cl-bl.png" /><br/>
 			<b>Ultra 64 Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>960 x 640</small><br/>
