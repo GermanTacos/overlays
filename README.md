@@ -586,6 +586,14 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small>2560 x 1600</small><br/>
         </td>
 	</tr>
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="N64 Box Art" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1920-1080/1920-1080-n64-3-bk-cl-bl.png" /><br/>
+			<b>N64 Box Art</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>1920 x 1080</small><br/>
+        </td>
+	</tr>
 </table>
 
 ### PlayStation
