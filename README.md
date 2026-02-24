@@ -42,10 +42,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
@@ -59,10 +55,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<b>Game Boy Advance SP Red</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
         </td>
 	</tr>
 	<tr>
@@ -203,10 +195,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>gray logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
@@ -235,14 +223,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>gray logo, alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
@@ -257,10 +237,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>full color logo</i></small><br/>
 			<small>640 x 480</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
@@ -274,10 +250,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<b>Game Boy Color Black S</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
         </td>
 	</tr>
 	<tr>
@@ -312,10 +284,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<b>Game Boy Color Black S</b><br/>
 			<small><i>half-color logo</i></small><br/>
 			<small>752 x 560</small><br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
         </td>
 	</tr>
 </table>
@@ -396,10 +364,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
@@ -453,14 +417,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
@@ -474,10 +430,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<b>NES Gray</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
         </td>
 	</tr>
 </table>
@@ -538,10 +490,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>red us logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 </table>
 
@@ -561,10 +509,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
-        </td>
 	</tr>
 </table>
 
@@ -583,10 +527,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<b>Genesis Red</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-			<br/>
         </td>
 	</tr>
 </table>
@@ -616,6 +556,12 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="N64 Box Art" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-n64-3-bk-cl-bl.png" /><br/>
 			<b>N64 Box Art</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>2560 x 1600</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Ultra 64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-n64-2-bk-cl-bl.png" /><br/>
+			<b>Ultra 64 Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>2560 x 1600</small><br/>
         </td>
