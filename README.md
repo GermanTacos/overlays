@@ -654,12 +654,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-        </td>
-		<td align="center" valign="top" width="33.33%">
-			<br/>
-        </td>
 	</tr>
 </table>
 
