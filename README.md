@@ -673,7 +673,29 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 
 ### PICO-8
 
-*Coming soon!*
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="PICO-8 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-pico-1-bk-wh.png" /><br/>
+			<b>PICO-8 Black</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="PICO-8 Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-pico-1-gr-wh.png" /><br/>
+			<b>PICO-8 Gray</b><br/>
+			<small><i>int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+	</tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="PICO-8 Cartridge" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-pico-2-gr-wh.png" /><br/>
+			<b>PICO-8 Cartridge</b><br/>
+			<small><i>cartridge-shaped bezel, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+	</tr>
+</table>
 
 ### Nintendo 64
 
