@@ -687,7 +687,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
-	</tr>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="PICO-8 Cartridge" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-pico-2-gr-wh.png" /><br/>
 			<b>PICO-8 Cartridge</b><br/>
