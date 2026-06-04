@@ -608,48 +608,48 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Super Famicom Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-sfc-1-bk-wh.png" /><br/>
 			<b>Super Famicom Black</b><br/>
-			<small><i>white logo, int. scaled</i></small><br/>
-			<small>1024 x 768</small><br/>
+			<small><i>white logo</i></small><br/>
+			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Super Famicom Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-sfc-1-gr-gr.png" /><br/>
 			<b>Super Famicom Gray</b><br/>
-			<small><i>gray logo, int. scaled</i></small><br/>
-			<small>1024 x 768</small><br/>
+			<small><i>gray logo</i></small><br/>
+			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Super Famicom Gray Alt" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-sfc-1-gr-bk.png" /><br/>
 			<b>Super Famicom Gray Alt</b><br/>
-			<small><i>black logo, int. scaled</i></small><br/>
-			<small>1024 x 768</small><br/>
+			<small><i>black logo</i></small><br/>
+			<small>720 x 720</small><br/>
         </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Super Nintendo Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-snes-1-bk-rd.png" /><br/>
 			<b>Super Nintendo Black</b><br/>
-			<small><i>red pal logo, int. scaled</i></small><br/>
-			<small>1024 x 768</small><br/>
+			<small><i>red pal logo</i></small><br/>
+			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Super Nintendo Black Alt" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-snes-1-bk-gr.png" /><br/>
 			<b>Super Nintendo Black Alt</b><br/>
-			<small><i>gray pal logo, int. scaled</i></small><br/>
-			<small>1024 x 768</small><br/>
+			<small><i>gray pal logo</i></small><br/>
+			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Super Nintendo Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-snes-1-gr-gr.png" /><br/>
 			<b>Super Nintendo Gray</b><br/>
-			<small><i>gray pal logo, int. scaled</i></small><br/>
-			<small>1024 x 768</small><br/>
+			<small><i>gray pal logo</i></small><br/>
+			<small>720 x 720</small><br/>
         </td>
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Super Nintendo Yellowed" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-snes-1-yl-rd.png" /><br/>
 			<b>Super Nintendo Yellowed</b><br/>
-			<small><i>red pal logo, int. scaled</i></small><br/>
-			<small>1024 x 768</small><br/>
+			<small><i>red pal logo</i></small><br/>
+			<small>720 x 720</small><br/>
         </td>
 	</tr>
 </table>
