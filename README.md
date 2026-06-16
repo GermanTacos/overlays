@@ -841,3 +841,22 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
         </td>
 	</tr>
 </table>
+
+### GameCube
+
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="GCN Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-gcn-1-bk-pr.png" /><br/>
+			<b>GCN Black</b><br/>
+			<small><i>standard logo</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="33.33%">
+			<br/><img title="Dolphin Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-gcn-1-bk-bl.png" /><br/>
+			<b>Dolphin Black</b><br/>
+			<small><i>modern logo</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+	</tr>
+</table>
