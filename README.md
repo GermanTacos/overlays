@@ -58,6 +58,58 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
         </td>
 	</tr>
 	<tr>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-fr-bk.png" /><br/>
+			<b>Game Boy Advance SP Flame Red</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-cb-bk.png" /><br/>
+			<b>Game Boy Advance SP Cobalt Blue</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-ob-bk.png" /><br/>
+			<b>Game Boy Advance SP Onyx Black</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-ps-bk.png" /><br/>
+			<b>Game Boy Advance SP Platinum Silver</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-pw-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl White</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-pb-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl Blue</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-pp-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl Pink</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-gp-bk.png" /><br/>
+			<b>Game Boy Advance SP Graphite</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1024 x 768</small><br/>
+        </td>
+	</tr>
+	<tr>
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gba-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
@@ -73,6 +125,58 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gba-1-bk-pr.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-fr-bk.png" /><br/>
+			<b>Game Boy Advance SP Flame Red</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-cb-bk.png" /><br/>
+			<b>Game Boy Advance SP Cobalt Blue</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-ob-bk.png" /><br/>
+			<b>Game Boy Advance SP Onyx Black</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-ps-bk.png" /><br/>
+			<b>Game Boy Advance SP Platinum Silver</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-pw-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl White</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-pb-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl Blue</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-pp-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl Pink</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>1240 x 1080</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-gp-bk.png" /><br/>
+			<b>Game Boy Advance SP Graphite</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
@@ -180,6 +284,58 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 		<td align="center" valign="top" width="33.33%">
 			<br/><img title="Game Boy Advance SP Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-rd-bk.png" /><br/>
 			<b>Game Boy Advance SP Red</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-fr-bk.png" /><br/>
+			<b>Game Boy Advance SP Flame Red</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-cb-bk.png" /><br/>
+			<b>Game Boy Advance SP Cobalt Blue</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-ob-bk.png" /><br/>
+			<b>Game Boy Advance SP Onyx Black</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-ps-bk.png" /><br/>
+			<b>Game Boy Advance SP Platinum Silver</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-pw-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl White</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-pb-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl Blue</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-pp-bk.png" /><br/>
+			<b>Game Boy Advance SP Pearl Pink</b><br/>
+			<small><i>black logo, int. scaled</i></small><br/>
+			<small>720 x 720</small><br/>
+        </td>
+		<td align="center" valign="top" width="25%">
+			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-gp-bk.png" /><br/>
+			<b>Game Boy Advance SP Graphite</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
