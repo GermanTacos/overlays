@@ -734,8 +734,6 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
-	</tr>
-	<tr>
 		<td align="center" valign="top" width="25%">
 			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-rd-go.png" /><br/>
 			<b>Famicom Red</b><br/>
