@@ -4,8 +4,8 @@
 	"desc": "alt design",
 	"res": "640 x 480",
 	"sys": "gb",
-	"intScale": "false",
-	"offset": "false",
+	"intScale": false,
+	"offset": false,
 	"png": "640-480-gb-3-gr-cl.png",
 	"cfg": "640-480-gb-3-gr-cl.cfg"
 }
