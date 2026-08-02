@@ -4,7 +4,7 @@
 	"desc": "blue logo",
 	"res": "640 x 480",
 	"sys": "gb",
-	"int-scale": "false",
+	"intScale": "false",
 	"offset": "false",
 	"png": "640-480-gb-2-gr-cl.png",
 	"cfg": "640-480-gb-2-gr-cl.cfg"
