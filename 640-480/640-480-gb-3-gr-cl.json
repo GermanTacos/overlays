@@ -1,0 +1,11 @@
+{
+	"id": "640-480-gb-3-gr-cl",
+	"name": "Game Boy Gray Striped",
+	"desc": "alt design",
+	"res": "640 x 480",
+	"sys": "gb",
+	"int-scale": "false",
+	"offset": "false",
+	"png": "640-480-gb-3-gr-cl.png",
+	"cfg": "640-480-gb-3-gr-cl.cfg"
+}
