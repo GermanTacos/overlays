@@ -11,19 +11,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gba-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gba-1-bk-bl.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-bk-pr.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gba-1-bk-pr.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -31,25 +31,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-pr-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gba-1-pr-bk.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gba-1-pr-pr.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gba-1-pr-pr.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance SP Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-rd-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-rd-bk.png" /><br/>
 			<b>Game Boy Advance SP Red</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -57,25 +57,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-fr-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-fr-bk.png" /><br/>
 			<b>Game Boy Advance SP Flame Red</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-cb-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-cb-bk.png" /><br/>
 			<b>Game Boy Advance SP Cobalt Blue</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-ob-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-ob-bk.png" /><br/>
 			<b>Game Boy Advance SP Onyx Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-ps-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-ps-bk.png" /><br/>
 			<b>Game Boy Advance SP Platinum Silver</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -83,25 +83,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-pw-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-pw-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl White</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-pb-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-pb-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl Blue</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-pp-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-pp-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl Pink</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbasp-1-gp-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbasp-1-gp-bk.png" /><br/>
 			<b>Game Boy Advance SP Graphite</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -109,19 +109,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gba-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gba-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gba-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gba-1-bk-bl.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gba-1-bk-pr.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gba-1-bk-pr.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
@@ -129,25 +129,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-fr-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-fr-bk.png" /><br/>
 			<b>Game Boy Advance SP Flame Red</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-cb-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-cb-bk.png" /><br/>
 			<b>Game Boy Advance SP Cobalt Blue</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-ob-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-ob-bk.png" /><br/>
 			<b>Game Boy Advance SP Onyx Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-ps-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-ps-bk.png" /><br/>
 			<b>Game Boy Advance SP Platinum Silver</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
@@ -155,25 +155,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-pw-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-pw-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl White</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-pb-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-pb-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl Blue</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-pp-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-pp-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl Pink</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbasp-1-gp-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbasp-1-gp-bk.png" /><br/>
 			<b>Game Boy Advance SP Graphite</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
@@ -181,19 +181,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960-int/1280-960-gba-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960/1280-960-int-gba-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1280 x 960</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960-int/1280-960-gba-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960/1280-960-int-gba-1-bk-bl.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>1280 x 960</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960-int/1280-960-gba-1-pr-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960/1280-960-int-gba-1-pr-bk.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>black, int. scaled</i></small><br/>
 			<small>1280 x 960</small><br/>
@@ -201,19 +201,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960-off/1280-960-gba-1-bk-bk-bottom.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960/1280-960-off-gba-1-bk-bk-bottom.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>black logo, offset</i></small><br/>
 			<small>1280 x 960</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960-off/1280-960-gba-1-bk-bl-bottom.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960/1280-960-off-gba-1-bk-bl-bottom.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, offset</i></small><br/>
 			<small>1280 x 960</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960-off/1280-960-gba-1-pr-bk-bottom.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1280-960/1280-960-off-gba-1-pr-bk-bottom.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>black, offset</i></small><br/>
 			<small>1280 x 960</small><br/>
@@ -221,38 +221,38 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560-int/752-560-gba-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560/752-560-int-gba-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>752 x 560</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560-int/752-560-gba-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560/752-560-int-gba-1-bk-bl.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>752 x 560</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560-int/752-560-gba-1-pr-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560/752-560-int-gba-1-pr-bk.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>black, int. scaled</i></small><br/>
 			<small>752 x 560</small><br/>
         </td>
 	</tr>
 	<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gba-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gba-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gba-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gba-1-bk-bl.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gba-1-bk-pr.png" /><br/>
+			<br/><img title="Game Boy Advance Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gba-1-bk-pr.png" /><br/>
 			<b>Game Boy Advance Black</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -260,25 +260,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gba-1-pr-bk.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gba-1-pr-bk.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gba-1-pr-pr.png" /><br/>
+			<br/><img title="Game Boy Advance Purple" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gba-1-pr-pr.png" /><br/>
 			<b>Game Boy Advance Purple</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-bk-bk.png" /><br/>
 			<b>Game Boy Advance SP Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-rd-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-rd-bk.png" /><br/>
 			<b>Game Boy Advance SP Red</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -286,25 +286,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-fr-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Flame Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-fr-bk.png" /><br/>
 			<b>Game Boy Advance SP Flame Red</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-cb-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Cobalt Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-cb-bk.png" /><br/>
 			<b>Game Boy Advance SP Cobalt Blue</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-ob-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Onyx Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-ob-bk.png" /><br/>
 			<b>Game Boy Advance SP Onyx Black</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-ps-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Platinum Silver" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-ps-bk.png" /><br/>
 			<b>Game Boy Advance SP Platinum Silver</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -312,25 +312,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-pw-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl White" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-pw-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl White</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-pb-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl Blue" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-pb-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl Blue</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-pp-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Pearl Pink" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-pp-bk.png" /><br/>
 			<b>Game Boy Advance SP Pearl Pink</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbasp-1-gp-bk.png" /><br/>
+			<br/><img title="Game Boy Advance SP Graphite" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbasp-1-gp-bk.png" /><br/>
 			<b>Game Boy Advance SP Graphite</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -343,25 +343,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-fl.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-fl.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-cl.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-cl.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>half-color logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-cl2.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-cl2.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>alt. half-color logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-bk.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>gray logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -369,25 +369,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-fl-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-fl-ol.png" /><br/>
 			<b>Game Boy Color Black OL</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-cl-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-cl-ol.png" /><br/>
 			<b>Game Boy Color Black OL</b><br/>
 			<small><i>half-color logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-cl2-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-cl2-ol.png" /><br/>
 			<b>Game Boy Color Black OL</b><br/>
 			<small><i>alt. half-color logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-1-bk-bk-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-1-bk-bk-ol.png" /><br/>
 			<b>Game Boy Color Black OL</b><br/>
 			<small><i>gray logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -395,25 +395,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-2-bk-fl-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-2-bk-fl-ol.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>full color logo, alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-2-bk-cl-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-2-bk-cl-ol.png" /><br/>
 			<b>Game Boy Color Black OL</b><br/>
 			<small><i>half-color logo, alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-2-bk-cl2-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-2-bk-cl2-ol.png" /><br/>
 			<b>Game Boy Color Black OL</b><br/>
 			<small><i>alt. half-color logo, alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gbc-2-bk-bk-ol.png" /><br/>
+			<br/><img title="Game Boy Color Black OL" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gbc-2-bk-bk-ol.png" /><br/>
 			<b>Game Boy Color Black OL</b><br/>
 			<small><i>gray logo, alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -433,13 +433,13 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 			<small>640 x 480</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black L" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-gbc-1-bk-cl.png" /><br/>
+			<br/><img title="Game Boy Color Black L" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-int-gbc-1-bk-cl.png" /><br/>
 			<b>Game Boy Color Black L</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black S" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-gbc-2-bk-cl.png" /><br/>
+			<br/><img title="Game Boy Color Black S" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-int-gbc-2-bk-cl.png" /><br/>
 			<b>Game Boy Color Black S</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
@@ -473,7 +473,7 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560-int/752-560-gbc-1-bk-hf.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/752-560/752-560-int-gbc-1-bk-hf.png" /><br/>
 			<b>Game Boy Color Black L</b><br/>
 			<small><i>half-color logo, int. scaled</i></small><br/>
 			<small>752 x 560</small><br/>
@@ -481,25 +481,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbc-1-bk-fl.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbc-1-bk-fl.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbc-1-bk-cl.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbc-1-bk-cl.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>half-color logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbc-1-bk-cl2.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbc-1-bk-cl2.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>alt. half-color logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gbc-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gbc-1-bk-bk.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>gray logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -507,25 +507,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbc-1-bk-fl.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbc-1-bk-fl.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>full color logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbc-1-bk-cl.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbc-1-bk-cl.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>half-color logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbc-1-bk-cl2.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbc-1-bk-cl2.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>alt. half-color logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gbc-1-bk-bk.png" /><br/>
+			<br/><img title="Game Boy Color Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gbc-1-bk-bk.png" /><br/>
 			<b>Game Boy Color Black</b><br/>
 			<small><i>gray logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
@@ -538,19 +538,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-gr-bl.png" /><br/>
+			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-1-gr-bl.png" /><br/>
 			<b>Game Boy Gray</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-1-bk-bl.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-pr.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-1-bk-pr.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -558,19 +558,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-gr-bl.png" /><br/>
+			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-2-gr-bl.png" /><br/>
 			<b>Game Boy Gray</b><br/>
 			<small><i>blue logo, alt. battery, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-2-bk-bl.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>blue logo, alt. battery, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-pr.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-2-bk-pr.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>purple logo, alt. battery, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -578,19 +578,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-pocket.png" /><br/>
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-1-bk-pocket.png" /><br/>
 			<b>Game Boy Pocket Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-pocket.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-2-bk-pocket.png" /><br/>
 			<b>Game Boy Pocket Black</b><br/>
 			<small><i>alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-si-pocket.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-1-si-pocket.png" /><br/>
 			<b>Game Boy Pocket Silver</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -598,13 +598,13 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-1-bk-light.png" /><br/>
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-1-bk-light.png" /><br/>
 			<b>Game Boy Light Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-gb-2-bk-light.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-gb-2-bk-light.png" /><br/>
 			<b>Game Boy Light Black</b><br/>
 			<small><i>alt. power, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -632,19 +632,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gb-1-gr-bl.png" /><br/>
+			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gb-1-gr-bl.png" /><br/>
 			<b>Game Boy Gray</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gb-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gb-1-bk-bl.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gb-1-bk-pr.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gb-1-bk-pr.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -652,19 +652,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gb-1-bk-pocket.png" /><br/>
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gb-1-bk-pocket.png" /><br/>
 			<b>Game Boy Pocket Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gb-1-si-pocket.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gb-1-si-pocket.png" /><br/>
 			<b>Game Boy Pocket Silver</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-gb-1-bk-light.png" /><br/>
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-gb-1-bk-light.png" /><br/>
 			<b>Game Boy Light Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -672,19 +672,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gb-1-gr-bl.png" /><br/>
+			<br/><img title="Game Boy Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gb-1-gr-bl.png" /><br/>
 			<b>Game Boy Gray</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gb-1-bk-bl.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gb-1-bk-bl.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>blue logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gb-1-bk-pr.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gb-1-bk-pr.png" /><br/>
 			<b>Game Boy Black</b><br/>
 			<small><i>purple logo, int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
@@ -692,19 +692,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gb-1-bk-pocket.png" /><br/>
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gb-1-bk-pocket.png" /><br/>
 			<b>Game Boy Pocket Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gb-1-si-pocket.png" /><br/>
+			<br/><img title="Game Boy Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gb-1-si-pocket.png" /><br/>
 			<b>Game Boy Pocket Silver</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080-int/1240-1080-gb-1-bk-light.png" /><br/>
+			<br/><img title="Game Boy Pocket Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1240-1080/1240-1080-int-gb-1-bk-light.png" /><br/>
 			<b>Game Boy Light Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1240 x 1080</small><br/>
@@ -717,25 +717,25 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Famicom Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-bk-rd.png" /><br/>
+			<br/><img title="Famicom Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-fc-1-bk-rd.png" /><br/>
 			<b>Famicom Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Famicom Gold" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-go-rd.png" /><br/>
+			<br/><img title="Famicom Gold" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-fc-1-go-rd.png" /><br/>
 			<b>Famicom Gold</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Famicom Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-gr-rd.png" /><br/>
+			<br/><img title="Famicom Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-fc-1-gr-rd.png" /><br/>
 			<b>Famicom Gray</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-fc-1-rd-go.png" /><br/>
+			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-fc-1-rd-go.png" /><br/>
 			<b>Famicom Red</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -743,13 +743,13 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-fc-1-rd-gl.png" /><br/>
+			<br/><img title="Famicom Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-int-fc-1-rd-gl.png" /><br/>
 			<b>Famicom Red</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="NES Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-fc-2-gr-rd.png" /><br/>
+			<br/><img title="NES Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-int-fc-2-gr-rd.png" /><br/>
 			<b>NES Gray</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
@@ -762,19 +762,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Famicom Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-sfc-1-bk-wh.png" /><br/>
+			<br/><img title="Super Famicom Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-sfc-1-bk-wh.png" /><br/>
 			<b>Super Famicom Black</b><br/>
 			<small><i>white logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Famicom Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-sfc-1-gr-gr.png" /><br/>
+			<br/><img title="Super Famicom Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-sfc-1-gr-gr.png" /><br/>
 			<b>Super Famicom Gray</b><br/>
 			<small><i>gray logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Famicom Gray Alt" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-sfc-1-gr-bk.png" /><br/>
+			<br/><img title="Super Famicom Gray Alt" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-sfc-1-gr-bk.png" /><br/>
 			<b>Super Famicom Gray Alt</b><br/>
 			<small><i>black logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -782,19 +782,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Nintendo Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-snes-1-bk-rd.png" /><br/>
+			<br/><img title="Super Nintendo Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-snes-1-bk-rd.png" /><br/>
 			<b>Super Nintendo Black</b><br/>
 			<small><i>red pal logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Nintendo Black Alt" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-snes-1-bk-gr.png" /><br/>
+			<br/><img title="Super Nintendo Black Alt" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-snes-1-bk-gr.png" /><br/>
 			<b>Super Nintendo Black Alt</b><br/>
 			<small><i>gray pal logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Nintendo Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-snes-1-gr-gr.png" /><br/>
+			<br/><img title="Super Nintendo Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-snes-1-gr-gr.png" /><br/>
 			<b>Super Nintendo Gray</b><br/>
 			<small><i>gray pal logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -802,13 +802,13 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Nintendo Yellowed" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-snes-1-yl-rd.png" /><br/>
+			<br/><img title="Super Nintendo Yellowed" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-snes-1-yl-rd.png" /><br/>
 			<b>Super Nintendo Yellowed</b><br/>
 			<small><i>red pal logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Super Nintendo Black US" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-snes-2-bl-rd.png" /><br/>
+			<br/><img title="Super Nintendo Black US" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-snes-2-bl-rd.png" /><br/>
 			<b>Super Nintendo Black US</b><br/>
 			<small><i>red us logo, int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -869,13 +869,13 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Pokemon Mini Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-poke-1-bk-cl.png" /><br/>
+			<br/><img title="Pokemon Mini Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-poke-1-bk-cl.png" /><br/>
 			<b>Pokemon Mini Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Pokemon Mini Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480-int/640-480-poke-1-bk-cl.png" /><br/>
+			<br/><img title="Pokemon Mini Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/640-480/640-480-int-poke-1-bk-cl.png" /><br/>
 			<b>Pokemon Mini Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>640 x 480</small><br/>
@@ -888,13 +888,13 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Mega Drive Magenta" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-md-1-bk-wh.png" /><br/>
+			<br/><img title="Mega Drive Magenta" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-md-1-bk-wh.png" /><br/>
 			<b>Mega Drive Magenta</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Genesis Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768-int/1024-768-md-2-bk-wh.png" /><br/>
+			<br/><img title="Genesis Red" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/1024-768/1024-768-int-md-2-bk-wh.png" /><br/>
 			<b>Genesis Red</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>1024 x 768</small><br/>
@@ -907,13 +907,13 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="NGP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-ngp-1-bk-rd.png" /><br/>
+			<br/><img title="NGP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-ngp-1-bk-rd.png" /><br/>
 			<b>NGP Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="NGP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-ngp-1-bk-rd2.png" /><br/>
+			<br/><img title="NGP Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-ngp-1-bk-rd2.png" /><br/>
 			<b>NGP Black</b><br/>
 			<small><i>alt logo, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -934,19 +934,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="PICO-8 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-pico-1-bk-wh.png" /><br/>
+			<br/><img title="PICO-8 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-pico-1-bk-wh.png" /><br/>
 			<b>PICO-8 Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="PICO-8 Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-pico-1-gr-wh.png" /><br/>
+			<br/><img title="PICO-8 Gray" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-pico-1-gr-wh.png" /><br/>
 			<b>PICO-8 Gray</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="PICO-8 Cartridge" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720-int/720-720-pico-2-gr-wh.png" /><br/>
+			<br/><img title="PICO-8 Cartridge" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/720-720/720-720-int-pico-2-gr-wh.png" /><br/>
 			<b>PICO-8 Cartridge</b><br/>
 			<small><i>cartridge-shaped bezel, int. scaled</i></small><br/>
 			<small>720 x 720</small><br/>
@@ -979,19 +979,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 	</tr>
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="N64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-n64-1-bk-cl-bl.png" /><br/>
+			<br/><img title="N64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600/2560-1600-int-n64-1-bk-cl-bl.png" /><br/>
 			<b>N64 Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>2560 x 1600</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="N64 Box Art" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-n64-3-bk-cl-bl.png" /><br/>
+			<br/><img title="N64 Box Art" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600/2560-1600-int-n64-3-bk-cl-bl.png" /><br/>
 			<b>N64 Box Art</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>2560 x 1600</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="Ultra 64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-n64-2-bk-cl-bl.png" /><br/>
+			<br/><img title="Ultra 64 Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600/2560-1600-int-n64-2-bk-cl-bl.png" /><br/>
 			<b>Ultra 64 Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>2560 x 1600</small><br/>
@@ -1032,19 +1032,19 @@ Overlays are in .png format; install to wherever your RetroArch overlays are kep
 <table align="center">
 	<tr>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="PSX Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-ps1-1-bk-cl-wh.png" /><br/>
+			<br/><img title="PSX Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600/2560-1600-int-ps1-1-bk-cl-wh.png" /><br/>
 			<b>PSX Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>2560 x 1600</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="PSX SCE Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-ps1-2-bk-cl-wh.png" /><br/>
+			<br/><img title="PSX SCE Black" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600/2560-1600-int-ps1-2-bk-cl-wh.png" /><br/>
 			<b>PSX SCE Black</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>2560 x 1600</small><br/>
         </td>
 		<td align="center" valign="top" width="25%">
-			<br/><img title="PSX SCE Black II" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600-int/2560-1600-ps1-3-bk-cl-wh.png" /><br/>
+			<br/><img title="PSX SCE Black II" width="200px" src="https://raw.githubusercontent.com/GermanTacos/overlays/refs/heads/main/2560-1600/2560-1600-int-ps1-3-bk-cl-wh.png" /><br/>
 			<b>PSX SCE Black II</b><br/>
 			<small><i>int. scaled</i></small><br/>
 			<small>2560 x 1600</small><br/>
