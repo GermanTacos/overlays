@@ -1,0 +1,11 @@
+{
+	"id": "640-480-gb-2-bk-pr",
+	"name": "Game Boy Black S",
+	"desc": "purple logo",
+	"res": "640 x 480",
+	"sys": "gb",
+	"intScale": false,
+	"offset": false,
+	"png": "640-480-gb-2-bk-pr.png",
+	"cfg": "640-480-gb-2-bk-pr.cfg"
+}

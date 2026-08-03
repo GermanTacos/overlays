@@ -1,7 +1,7 @@
 {
 	"id": "1280-960-int-gbc-1-bk-cl",
-	"name": "TODO",
-	"desc": "",
+	"name": "Game Boy Color Black",
+	"desc": "full-color logo",
 	"res": "1280 x 960",
 	"sys": "gbc",
 	"intScale": true,

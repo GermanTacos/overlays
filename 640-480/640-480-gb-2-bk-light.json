@@ -1,0 +1,11 @@
+{
+	"id": "640-480-gb-2-bk-light",
+	"name": "Game Boy Light Black S",
+	"desc": "",
+	"res": "640 x 480",
+	"sys": "gb",
+	"intScale": false,
+	"offset": false,
+	"png": "640-480-gb-2-bk-light.png",
+	"cfg": "640-480-gb-2-bk-light.cfg"
+}
