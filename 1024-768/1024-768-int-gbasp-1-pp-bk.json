@@ -1,0 +1,11 @@
+{
+	"id": "1024-768-int-gbasp-1-pp-bk",
+	"name": "Game Boy Advance SP Pearl Pink",
+	"desc": "black logo",
+	"res": "1024 x 768",
+	"sys": "gbasp",
+	"intScale": true,
+	"offset": false,
+	"png": "1024-768-int-gbasp-1-pp-bk.png",
+	"cfg": "1024-768-int-gbasp-1-pp-bk.cfg"
+}

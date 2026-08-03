@@ -1,0 +1,11 @@
+{
+	"id": "1024-768-int-gba-1-pr-bk",
+	"name": "Game Boy Advance Purple",
+	"desc": "black logo",
+	"res": "1024 x 768",
+	"sys": "gba",
+	"intScale": true,
+	"offset": false,
+	"png": "1024-768-int-gba-1-pr-bk.png",
+	"cfg": "1024-768-int-gba-1-pr-bk.cfg"
+}

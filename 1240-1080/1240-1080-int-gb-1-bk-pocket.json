@@ -1,0 +1,11 @@
+{
+	"id": "1240-1080-int-gb-1-bk-pocket",
+	"name": "Game Boy Pocket Black",
+	"desc": "",
+	"res": "1240 x 1080",
+	"sys": "gb",
+	"intScale": true,
+	"offset": false,
+	"png": "1240-1080-int-gb-1-bk-pocket.png",
+	"cfg": "1240-1080-int-gb-1-bk-pocket.cfg"
+}

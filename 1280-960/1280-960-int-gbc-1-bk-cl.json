@@ -1,0 +1,11 @@
+{
+	"id": "1280-960-int-gbc-1-bk-cl",
+	"name": "TODO",
+	"desc": "",
+	"res": "1280 x 960",
+	"sys": "gbc",
+	"intScale": true,
+	"offset": false,
+	"png": "1280-960-int-gbc-1-bk-cl.png",
+	"cfg": "1280-960-int-gbc-1-bk-cl.cfg"
+}

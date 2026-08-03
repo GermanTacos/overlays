@@ -1,0 +1,11 @@
+{
+	"id": "720-720-snes-1-yl-rd",
+	"name": "Super Nintendo Yellowed",
+	"desc": "red pal logo",
+	"res": "720 x 720",
+	"sys": "snes",
+	"intScale": false,
+	"offset": false,
+	"png": "720-720-snes-1-yl-rd.png",
+	"cfg": "720-720-snes-1-yl-rd.cfg"
+}

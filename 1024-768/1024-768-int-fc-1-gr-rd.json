@@ -1,0 +1,11 @@
+{
+	"id": "1024-768-int-fc-1-gr-rd",
+	"name": "Famicom Gray",
+	"desc": "",
+	"res": "1024 x 768",
+	"sys": "fc",
+	"intScale": true,
+	"offset": false,
+	"png": "1024-768-int-fc-1-gr-rd.png",
+	"cfg": "1024-768-int-fc-1-gr-rd.cfg"
+}

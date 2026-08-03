@@ -1,0 +1,11 @@
+{
+	"id": "720-720-snes-1-bk-gr",
+	"name": "Super Nintendo Black Alt",
+	"desc": "gray pal logo",
+	"res": "720 x 720",
+	"sys": "snes",
+	"intScale": false,
+	"offset": false,
+	"png": "720-720-snes-1-bk-gr.png",
+	"cfg": "720-720-snes-1-bk-gr.cfg"
+}

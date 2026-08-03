@@ -1,0 +1,11 @@
+{
+	"id": "720-720-n64-2-bk-cl-bl",
+	"name": "Ultra 64 Black",
+	"desc": "ultra 64",
+	"res": "720 x 720",
+	"sys": "n64",
+	"intScale": false,
+	"offset": false,
+	"png": "720-720-n64-2-bk-cl-bl.png",
+	"cfg": "720-720-n64-2-bk-cl-bl.cfg"
+}

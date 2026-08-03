@@ -1,0 +1,11 @@
+{
+	"id": "1024-768-int-sfc-1-gr-bk",
+	"name": "Super Famicom Gray Alt",
+	"desc": "black logo",
+	"res": "1024 x 768",
+	"sys": "sfc",
+	"intScale": true,
+	"offset": false,
+	"png": "1024-768-int-sfc-1-gr-bk.png",
+	"cfg": "1024-768-int-sfc-1-gr-bk.cfg"
+}

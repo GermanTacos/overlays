@@ -1,0 +1,11 @@
+{
+	"id": "1240-1080-int-gbc-1-bk-cl",
+	"name": "Game Boy Color Black",
+	"desc": "half-color logo",
+	"res": "1240 x 1080",
+	"sys": "gbc",
+	"intScale": true,
+	"offset": false,
+	"png": "1240-1080-int-gbc-1-bk-cl.png",
+	"cfg": "1240-1080-int-gbc-1-bk-cl.cfg"
+}

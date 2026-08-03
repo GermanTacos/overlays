@@ -1,0 +1,11 @@
+{
+	"id": "640-480-gbc-2-bk-cl-ls",
+	"name": "TODO",
+	"desc": "",
+	"res": "640 x 480",
+	"sys": "gbc",
+	"intScale": false,
+	"offset": false,
+	"png": "640-480-gbc-2-bk-cl-ls.png",
+	"cfg": "640-480-gbc-2-bk-cl-ls.cfg"
+}

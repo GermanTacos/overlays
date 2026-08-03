@@ -1,0 +1,11 @@
+{
+	"id": "2560-1600-int-n64-2-bk-cl-bl",
+	"name": "Ultra 64 Black",
+	"desc": "",
+	"res": "2560 x 1600",
+	"sys": "n64",
+	"intScale": true,
+	"offset": false,
+	"png": "2560-1600-int-n64-2-bk-cl-bl.png",
+	"cfg": "2560-1600-int-n64-2-bk-cl-bl.cfg"
+}

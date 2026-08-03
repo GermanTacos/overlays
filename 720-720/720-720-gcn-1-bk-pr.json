@@ -1,0 +1,11 @@
+{
+	"id": "720-720-gcn-1-bk-pr",
+	"name": "GCN Black",
+	"desc": "standard logo",
+	"res": "720 x 720",
+	"sys": "gcn",
+	"intScale": false,
+	"offset": false,
+	"png": "720-720-gcn-1-bk-pr.png",
+	"cfg": "720-720-gcn-1-bk-pr.cfg"
+}

@@ -1,0 +1,11 @@
+{
+	"id": "1280-960-int-gba-1-bk-bl",
+	"name": "Game Boy Advance Black",
+	"desc": "blue logo",
+	"res": "1280 x 960",
+	"sys": "gba",
+	"intScale": true,
+	"offset": false,
+	"png": "1280-960-int-gba-1-bk-bl.png",
+	"cfg": "1280-960-int-gba-1-bk-bl.cfg"
+}

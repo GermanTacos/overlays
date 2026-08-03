@@ -1,0 +1,11 @@
+{
+	"id": "1240-1080-int-gb-1-si-pocket",
+	"name": "Game Boy Pocket Silver",
+	"desc": "",
+	"res": "1240 x 1080",
+	"sys": "gb",
+	"intScale": true,
+	"offset": false,
+	"png": "1240-1080-int-gb-1-si-pocket.png",
+	"cfg": "1240-1080-int-gb-1-si-pocket.cfg"
+}

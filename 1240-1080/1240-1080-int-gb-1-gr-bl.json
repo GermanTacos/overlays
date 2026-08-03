@@ -1,0 +1,11 @@
+{
+	"id": "1240-1080-int-gb-1-gr-bl",
+	"name": "Game Boy Gray",
+	"desc": "blue logo",
+	"res": "1240 x 1080",
+	"sys": "gb",
+	"intScale": true,
+	"offset": false,
+	"png": "1240-1080-int-gb-1-gr-bl.png",
+	"cfg": "1240-1080-int-gb-1-gr-bl.cfg"
+}

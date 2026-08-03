@@ -1,0 +1,11 @@
+{
+	"id": "2560-1600-int-n64-3-bk-cl-bl",
+	"name": "N64 Box Art",
+	"desc": "",
+	"res": "2560 x 1600",
+	"sys": "n64",
+	"intScale": true,
+	"offset": false,
+	"png": "2560-1600-int-n64-3-bk-cl-bl.png",
+	"cfg": "2560-1600-int-n64-3-bk-cl-bl.cfg"
+}

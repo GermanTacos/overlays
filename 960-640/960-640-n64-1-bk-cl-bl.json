@@ -1,0 +1,11 @@
+{
+	"id": "960-640-n64-1-bk-cl-bl",
+	"name": "N64 Black",
+	"desc": "",
+	"res": "960 x 640",
+	"sys": "n64",
+	"intScale": false,
+	"offset": false,
+	"png": "960-640-n64-1-bk-cl-bl.png",
+	"cfg": "960-640-n64-1-bk-cl-bl.cfg"
+}

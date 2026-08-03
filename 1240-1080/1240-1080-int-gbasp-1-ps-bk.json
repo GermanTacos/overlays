@@ -1,0 +1,11 @@
+{
+	"id": "1240-1080-int-gbasp-1-ps-bk",
+	"name": "Game Boy Advance SP Platinum Silver",
+	"desc": "black logo",
+	"res": "1240 x 1080",
+	"sys": "gbasp",
+	"intScale": true,
+	"offset": false,
+	"png": "1240-1080-int-gbasp-1-ps-bk.png",
+	"cfg": "1240-1080-int-gbasp-1-ps-bk.cfg"
+}

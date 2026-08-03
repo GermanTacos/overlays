@@ -1,0 +1,11 @@
+{
+	"id": "720-720-int-gbc-1-bk-bk",
+	"name": "Game Boy Color Black",
+	"desc": "gray logo",
+	"res": "720 x 720",
+	"sys": "gbc",
+	"intScale": true,
+	"offset": false,
+	"png": "720-720-int-gbc-1-bk-bk.png",
+	"cfg": "720-720-int-gbc-1-bk-bk.cfg"
+}

@@ -1,0 +1,11 @@
+{
+	"id": "720-720-int-ngp-1-bk-rd",
+	"name": "NGP Black",
+	"desc": "",
+	"res": "720 x 720",
+	"sys": "ngp",
+	"intScale": true,
+	"offset": false,
+	"png": "720-720-int-ngp-1-bk-rd.png",
+	"cfg": "720-720-int-ngp-1-bk-rd.cfg"
+}

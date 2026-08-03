@@ -1,0 +1,11 @@
+{
+	"id": "720-720-int-gbasp-1-bk-bk",
+	"name": "Game Boy Advance SP Black",
+	"desc": "black logo",
+	"res": "720 x 720",
+	"sys": "gbasp",
+	"intScale": true,
+	"offset": false,
+	"png": "720-720-int-gbasp-1-bk-bk.png",
+	"cfg": "720-720-int-gbasp-1-bk-bk.cfg"
+}

@@ -1,0 +1,11 @@
+{
+	"id": "720-720-ps1-3-bk-cl-wh",
+	"name": "PSX SCE Black II",
+	"desc": "sce",
+	"res": "720 x 720",
+	"sys": "ps1",
+	"intScale": false,
+	"offset": false,
+	"png": "720-720-ps1-3-bk-cl-wh.png",
+	"cfg": "720-720-ps1-3-bk-cl-wh.cfg"
+}

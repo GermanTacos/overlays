@@ -1,0 +1,11 @@
+{
+	"id": "640-480-int-poke-1-bk-cl",
+	"name": "Pokemon Mini Black",
+	"desc": "",
+	"res": "640 x 480",
+	"sys": "poke",
+	"intScale": true,
+	"offset": false,
+	"png": "640-480-int-poke-1-bk-cl.png",
+	"cfg": "640-480-int-poke-1-bk-cl.cfg"
+}

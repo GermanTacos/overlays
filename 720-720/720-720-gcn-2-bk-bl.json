@@ -1,0 +1,11 @@
+{
+	"id": "720-720-gcn-2-bk-bl",
+	"name": "Dolphin Black",
+	"desc": "modern logo",
+	"res": "720 x 720",
+	"sys": "gcn",
+	"intScale": false,
+	"offset": false,
+	"png": "720-720-gcn-2-bk-bl.png",
+	"cfg": "720-720-gcn-2-bk-bl.cfg"
+}

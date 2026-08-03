@@ -1,0 +1,11 @@
+{
+	"id": "720-720-int-pico-1-gr-wh",
+	"name": "PICO-8 Gray",
+	"desc": "",
+	"res": "720 x 720",
+	"sys": "pico",
+	"intScale": true,
+	"offset": false,
+	"png": "720-720-int-pico-1-gr-wh.png",
+	"cfg": "720-720-int-pico-1-gr-wh.cfg"
+}

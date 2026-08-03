@@ -1,0 +1,11 @@
+{
+	"id": "640-480-gbc-1-bk-cl",
+	"name": "Game Boy Color Black L",
+	"desc": "full color logo",
+	"res": "640 x 480",
+	"sys": "gbc",
+	"intScale": false,
+	"offset": false,
+	"png": "640-480-gbc-1-bk-cl.png",
+	"cfg": "640-480-gbc-1-bk-cl.cfg"
+}

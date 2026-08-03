@@ -1,0 +1,11 @@
+{
+	"id": "752-560-gbc-1-bk-hf",
+	"name": "Game Boy Color Black L",
+	"desc": "half-color logo",
+	"res": "752 x 560",
+	"sys": "gbc",
+	"intScale": false,
+	"offset": false,
+	"png": "752-560-gbc-1-bk-hf.png",
+	"cfg": "752-560-gbc-1-bk-hf.cfg"
+}

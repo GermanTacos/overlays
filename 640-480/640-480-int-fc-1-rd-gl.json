@@ -1,0 +1,11 @@
+{
+	"id": "640-480-int-fc-1-rd-gl",
+	"name": "Famicom Red",
+	"desc": "",
+	"res": "640 x 480",
+	"sys": "fc",
+	"intScale": true,
+	"offset": false,
+	"png": "640-480-int-fc-1-rd-gl.png",
+	"cfg": "640-480-int-fc-1-rd-gl.cfg"
+}

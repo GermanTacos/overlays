@@ -1,0 +1,11 @@
+{
+	"id": "1240-1080-int-gb-1-bk-light",
+	"name": "Game Boy Light Black",
+	"desc": "",
+	"res": "1240 x 1080",
+	"sys": "gb",
+	"intScale": true,
+	"offset": false,
+	"png": "1240-1080-int-gb-1-bk-light.png",
+	"cfg": "1240-1080-int-gb-1-bk-light.cfg"
+}

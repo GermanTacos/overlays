@@ -1,0 +1,11 @@
+{
+	"id": "720-720-sfc-1-gr-bk",
+	"name": "Super Famicom Gray Alt",
+	"desc": "black logo",
+	"res": "720 x 720",
+	"sys": "sfc",
+	"intScale": false,
+	"offset": false,
+	"png": "720-720-sfc-1-gr-bk.png",
+	"cfg": "720-720-sfc-1-gr-bk.cfg"
+}

@@ -1,0 +1,11 @@
+{
+	"id": "1024-768-int-gb-2-gr-bl",
+	"name": "Game Boy Gray",
+	"desc": "blue logo, alt. battery",
+	"res": "1024 x 768",
+	"sys": "gb",
+	"intScale": true,
+	"offset": false,
+	"png": "1024-768-int-gb-2-gr-bl.png",
+	"cfg": "1024-768-int-gb-2-gr-bl.cfg"
+}
