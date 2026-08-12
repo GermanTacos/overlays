@@ -3,7 +3,7 @@
 	"name": "Game Boy Micro Black",
 	"desc": "alt. white logo",
 	"res": "1600 x 1440",
-	"sys": "gba",
+	"sys": "gbm",
 	"intScale": true,
 	"offset": false,
 	"png": "1600-1440-int-gbm-2-bk-wh.png",

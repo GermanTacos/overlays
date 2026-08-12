@@ -1,11 +1,11 @@
 {
-	"id": "1024-768-int-gb-2-bk-light",
+	"id": "1024-768-int-gbl-2-bk-light",
 	"name": "Game Boy Light Black",
 	"desc": "alt. power",
 	"res": "1024 x 768",
-	"sys": "gb",
+	"sys": "gbl",
 	"intScale": true,
 	"offset": false,
-	"png": "1024-768-int-gb-2-bk-light.png",
-	"cfg": "1024-768-int-gb-2-bk-light.cfg"
+	"png": "1024-768-int-gbl-2-bk-light.png",
+	"cfg": "1024-768-int-gbl-2-bk-light.cfg"
 }
