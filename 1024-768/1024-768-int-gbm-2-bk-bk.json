@@ -1,7 +1,7 @@
 {
 	"id": "1024-768-int-gbm-2-bk-bk",
 	"name": "Game Boy Micro Black",
-	"desc": "black logo",
+	"desc": "alt. white logo",
 	"res": "1024 x 768",
 	"sys": "gbm",
 	"intScale": true,
