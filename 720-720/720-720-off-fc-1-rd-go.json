@@ -1,0 +1,11 @@
+{
+	"id": "720-720-off-fc-1-rd-go",
+	"name": "Famicom Red",
+	"desc": "",
+	"res": "720 x 720",
+	"sys": "fc",
+	"intScale": false,
+	"offset": true,
+	"png": "720-720-off-fc-1-rd-go.png",
+	"cfg": "720-720-off-fc-1-rd-go.cfg"
+}

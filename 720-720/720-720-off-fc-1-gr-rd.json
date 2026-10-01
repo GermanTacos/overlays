@@ -1,0 +1,11 @@
+{
+	"id": "720-720-off-fc-1-gr-rd",
+	"name": "Famicom Gray",
+	"desc": "",
+	"res": "720 x 720",
+	"sys": "fc",
+	"intScale": false,
+	"offset": true,
+	"png": "720-720-off-fc-1-gr-rd.png",
+	"cfg": "720-720-off-fc-1-gr-rd.cfg"
+}
