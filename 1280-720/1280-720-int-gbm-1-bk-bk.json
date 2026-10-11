@@ -1,0 +1,11 @@
+{
+	"id": "1280-720-int-gbm-1-bk-wh",
+	"name": "Game Boy Micro Black",
+	"desc": "white logo",
+	"res": "1280 x 720",
+	"sys": "gbm",
+	"intScale": true,
+	"offset": false,
+	"png": "1280-720-int-gbm-1-bk-wh.png",
+	"cfg": "1280-720-int-gbm-1-bk-wh.cfg"
+}
