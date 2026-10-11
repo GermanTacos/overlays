@@ -1,11 +1,11 @@
 {
-	"id": "1280-720-int-snes-2-bl-rd",
+	"id": "1280-720-int-snes-2-bk-rd",
 	"name": "Super Nintendo Black US",
 	"desc": "red us logo",
 	"res": "1280 x 720",
 	"sys": "snes",
 	"intScale": true,
 	"offset": false,
-	"png": "1280-720-int-snes-2-bl-rd.png",
-	"cfg": "1280-720-int-snes-2-bl-rd.cfg"
+	"png": "1280-720-int-snes-2-bk-rd.png",
+	"cfg": "1280-720-int-snes-2-bk-rd.cfg"
 }
