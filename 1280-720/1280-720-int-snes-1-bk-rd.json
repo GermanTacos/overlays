@@ -1,0 +1,11 @@
+{
+	"id": "1280-720-int-snes-1-bk-rd",
+	"name": "Super Nintendo Black",
+	"desc": "red pal logo",
+	"res": "1280 x 720",
+	"sys": "snes",
+	"intScale": true,
+	"offset": false,
+	"png": "1280-720-int-snes-1-bk-rd.png",
+	"cfg": "1280-720-int-snes-1-bk-rd.cfg"
+}
