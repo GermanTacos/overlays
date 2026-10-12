@@ -1,0 +1,11 @@
+{
+	"id": "1280-720-int-nes-2-bk-go",
+	"name": "NES Action Set",
+	"desc": "experience the ultimate in video entertainment",
+	"res": "1280 x 720",
+	"sys": "nes",
+	"intScale": true,
+	"offset": false,
+	"png": "1280-720-int-nes-2-bk-go.png",
+	"cfg": "1280-720-int-nes-2-bk-go.cfg"
+}
