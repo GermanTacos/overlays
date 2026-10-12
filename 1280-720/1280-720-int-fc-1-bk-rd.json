@@ -1,0 +1,11 @@
+{
+	"id": "1280-720-int-fc-1-bk-rd",
+	"name": "Famicom Black",
+	"desc": "",
+	"res": "1280 x 720",
+	"sys": "fc",
+	"intScale": true,
+	"offset": false,
+	"png": "1280-720-int-fc-1-bk-rd.png",
+	"cfg": "1280-720-int-fc-1-bk-rd.cfg"
+}
